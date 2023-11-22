@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../INŻYNIERKA/SUB_HCJS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
